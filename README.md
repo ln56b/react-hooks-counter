@@ -5,7 +5,7 @@ Create an counter
 
 **Objectives**
 
-- Create an ascending and descending counter
+- Create routes
 
 - Use hooks instead of class
 
